@@ -1,4 +1,4 @@
-* Finstat Scrapper
+# Finstat Scrapper
   
 This script scrapes finstat website for companies in medical field.
 It loads these companies into pandaFrame and search each company in ORSR.
